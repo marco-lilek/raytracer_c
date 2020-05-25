@@ -1,0 +1,10 @@
+
+[submodule "external/lodepng"]
+	path = external/lodepng
+	url = https://github.com/lvandeve/lodepng
+[submodule "external/cglm"]
+	path = external/cglm
+	url = https://github.com/recp/cglm
+[submodule "external/sclog4c"]
+	path = external/sclog4c
+	url = https://github.com/christianhujer/sclog4c/
